@@ -1,0 +1,274 @@
+﻿id,origin,Author,Country,Species.English,Species.scientific,Host.taxonomic.class,Sampling.method,Hosts.studied,Larvae.on.hosts,BBsl.Hosts.tested,BBsl.Hosts.positive,BBsl.Larvae.tested,BBsl.Larvae.positive,AP.Hosts.tested,AP.Hosts.positive,AP.Larvae.tested,AP.Larvae.positive
+1,TB,"Lommano et al., 2014",Switzerland,Great tit,Parus major,Bird,Scientific capturing,5,1,NA,NA,1,0,NA,NA,1,0
+2,TB,"Lommano et al., 2014",Switzerland,Song thrush,Turdus philomelos,Bird,Scientific capturing,1,3,NA,NA,3,3,NA,NA,3,0
+3,AP_larvae,"Chvostac et al., 2018",Slovakia,Common blackbird,Turdus merula,Bird,Scientific capturing,NA,NA,NA,NA,6,5,NA,NA,6,0
+4,TB,"Jahfari et al., 2017",Belgium,Western European hedgehog,Erinaceus europaeus,Mammal,Civilian capture,54,7,NA,NA,7,1,NA,NA,7,3
+5,TB,"Silaghi et al., 2012",Germany,Bank vole,Myodes glareolus,Mammal,Scientific capturing,36,72,NA,NA,NA,NA,36,2,72,0
+6,TB,"Blanarova et al., 2014",Slovakia,Bank vole,Myodes glareolus,Mammal,Scientific capturing,237,0,NA,NA,NA,NA,237,12,86,0
+7,AP_larvae,"Jahfari et al., 2014",The Netherlands and Belgium,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,NA,NA,NA,NA,23,1,109,1
+8,AP_larvae,"Chvostac et al., 2018",Slovakia,Great tit,Parus major,Bird,Scientific capturing,NA,NA,NA,NA,245,27,NA,NA,242,0
+9,bbslhost,"Andersson et al., 2013",Sweden,Bank vole,Myodes glareolus,Mammal,NA,NA,NA,906,154,NA,NA,NA,NA,NA,NA
+10,bbslhost,"Balazova et al., 2021",Czech Republic,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,125,4,NA,NA,NA,NA,NA,NA
+11,host_ap,"Barandika et al., 2007",Spain,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,162,1,NA,NA
+12,host_ap,"Barandika et al., 2007",Spain,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,16,0,NA,NA
+13,host_ap,"Beninati et al., 2006",Italy,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,34,0,NA,NA
+14,TB,"Biernat et al., 2016a",Poland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,46,60,NA,NA,NA,NA,NA,NA,NA,NA
+15,TB,"Biernat et al., 2016b",Poland,Common chaffinch,Fringilla coelebs,Bird,Scientific capturing,23,21,NA,NA,NA,NA,NA,NA,NA,NA
+16,TB,"Biernat et al., 2016b",Poland,Common blackbird,Turdus merula,Bird,Scientific capturing,26,371,NA,NA,NA,NA,NA,NA,NA,NA
+17,TB,"Biernat et al., 2016b",Poland,Song thrush,Turdus philomelos,Bird,Scientific capturing,13,88,NA,NA,NA,NA,NA,NA,NA,NA
+18,TB,"Borsan et al., 2020",Romania,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,4,0,3,0,NA,NA,NA,NA,NA,NA
+19,TB,"Borsan et al., 2020",Romania,Common chaffinch,Fringilla coelebs,Bird,Scientific capturing,2,0,NA,NA,NA,NA,NA,NA,NA,NA
+20,TB,"Borsan et al., 2020",Romania,Bank vole,Myodes glareolus,Mammal,Scientific capturing,1,0,1,0,NA,NA,NA,NA,NA,NA
+21,TB,"Borsan et al., 2020",Romania,Great tit,Parus major,Bird,Scientific capturing,13,0,7,1,NA,NA,NA,NA,NA,NA
+22,TB,"Borsan et al., 2020",Romania,Eurasian wren,Troglodytes troglodytes,Bird,Scientific capturing,2,0,NA,NA,NA,NA,NA,NA,NA,NA
+23,TB,"Borsan et al., 2020",Romania,Common blackbird,Turdus merula,Bird,Scientific capturing,11,1,11,0,1,0,NA,NA,NA,NA
+24,host_ap,"Bown et al., 2003",UK,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,390,7,NA,NA
+25,host_ap,"Bown et al., 2003",UK,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,201,23,NA,NA
+26,TB,"Boyard et al., 2008",France,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,42,226,NA,NA,NA,NA,NA,NA,NA,NA
+27,TB,"Boyard et al., 2008",France,Bank vole,Myodes glareolus,Mammal,Scientific capturing,79,58,NA,NA,NA,NA,NA,NA,NA,NA
+28,TB,"Brinck et al., 1967",Sweden,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,221,127,NA,NA,NA,NA,NA,NA,NA,NA
+29,TB,"Brinck et al., 1967",Sweden,Bank vole,Myodes glareolus,Mammal,Scientific capturing,155,41,NA,NA,NA,NA,NA,NA,NA,NA
+30,TB,"Burri et al., 2014",Switzerland,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,35,445,NA,NA,NA,NA,NA,NA,NA,NA
+31,TB,"Burri et al., 2014",Switzerland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,19,184,NA,NA,NA,NA,NA,NA,NA,NA
+32,TB,"Cayol et al., 2017",Finland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,1007,2290,NA,NA,NA,NA,NA,NA,NA,NA
+33,TB,"Cayol et al., 2018",Finland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,557,301,349,39,NA,NA,NA,NA,NA,NA
+34,TB,"Cayol et al., 2018",Finland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,557,301,NA,NA,NA,NA,NA,NA,NA,NA
+35,bbslhost,"Cerar et al., 2015",Slovenia,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,2,2,NA,NA,NA,NA,NA,NA
+36,bbslhost,"Cerar et al., 2015",Slovenia,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,94,31,NA,NA,NA,NA,NA,NA
+37,TB,"Ciebiera et al., 2019",Poland,Common chiffchaff,Fringilla coelebs,Bird,Scientific capturing,52,15,NA,NA,NA,NA,NA,NA,NA,NA
+38,TB,"Ciebiera et al., 2019",Poland,Common chiffchaff,Fringilla coelebs,Bird,Scientific capturing,12,95,NA,NA,NA,NA,NA,NA,NA,NA
+39,TB,"Ciebiera et al., 2019",Poland,Great tit,Parus major,Bird,Scientific capturing,33,17,NA,NA,NA,NA,NA,NA,NA,NA
+40,TB,"Ciebiera et al., 2019",Poland,Great tit,Parus major,Bird,Scientific capturing,13,1,NA,NA,NA,NA,NA,NA,NA,NA
+41,TB,"Ciebiera et al., 2019",Poland,Eurasian wren,Troglodytes troglodytes,Bird,Scientific capturing,9,13,NA,NA,NA,NA,NA,NA,NA,NA
+42,TB,"Ciebiera et al., 2019",Poland,Eurasian wren,Troglodytes troglodytes,Bird,Scientific capturing,6,7,NA,NA,NA,NA,NA,NA,NA,NA
+43,TB,"Ciebiera et al., 2019",Poland,Common blackbird,Turdus merula,Bird,Scientific capturing,68,99,NA,NA,NA,NA,NA,NA,NA,NA
+44,TB,"Ciebiera et al., 2019",Poland,Common blackbird,Turdus merula,Bird,Scientific capturing,36,41,NA,NA,NA,NA,NA,NA,NA,NA
+45,TB,"Coipan et al., 2018",The Netherlands,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,48,2307,NA,NA,NA,NA,NA,NA,NA,NA
+46,TB,"Coipan et al., 2018",Netherlands,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,31,1868,NA,NA,733,98,NA,NA,NA,NA
+47,TB,"Coipan et al., 2018",The Netherlands,Bank vole,Myodes glareolus,Mammal,Scientific capturing,44,1418,NA,NA,NA,NA,NA,NA,NA,NA
+48,TB,"Coipan et al., 2018",Netherlands,Bank vole,Myodes glareolus,Mammal,Scientific capturing,31,1052,NA,NA,570,152,NA,NA,NA,NA
+49,bbslhost,"Cornetti et al., 2018",Switzerland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,266,77,NA,NA,NA,NA,NA,NA
+50,bbslhost,"Cornetti et al., 2020",Switzerland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,118,53,NA,NA,NA,NA,NA,NA
+51,bbslhost,"Cosson et al., 2014",France,Bank vole,Myodes glareolus,Mammal,NA,NA,NA,72,3,NA,NA,NA,NA,NA,NA
+52,TB,"Cull et al., 2017",England,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,84,299,NA,NA,NA,NA,NA,NA,NA,NA
+53,TB,"Cull et al., 2017",England,Bank vole,Myodes glareolus,Mammal,Scientific capturing,26,65,NA,NA,NA,NA,NA,NA,NA,NA
+54,bbsl_larvae,"De Boer et al., 1993",The Netherlands,Wood mouse,Apodemus sylvaticus,Mammal,NA,170,0,NA,NA,80,49,NA,NA,NA,NA
+55,bbslhost,"De Carvalho et al., 2010",Portugal,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,22,1,NA,NA,NA,NA,NA,NA
+56,TB,"De Pelsmaeker et al., 2020",Norway,Bank vole,Myodes glareolus,Mammal,Scientific capturing,1318,4735,NA,NA,NA,NA,NA,NA,NA,NA
+57,bbslhost,"Diaz-Cao et al., 2020",Spain,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,121,1,NA,NA,NA,NA,NA,NA
+58,bbsl_larvae,"Dubska et al., 2009",Czech Republic,Great tit,Parus major,Bird,NA,NA,NA,NA,NA,135,0,NA,NA,NA,NA
+59,bbsl_larvae,"Dubska et al., 2009",Czech Republic,Eurasian wren,Troglodytes troglodytes,Bird,NA,NA,NA,NA,NA,138,0,NA,NA,NA,NA
+60,bbsl_larvae,"Dubska et al., 2009",Czech Republic,Common blackbird,Turdus merula,Bird,NA,NA,NA,NA,NA,384,0,NA,NA,NA,NA
+61,bbsl_larvae,"Dubska et al., 2009",Czech Republic,Song thrush,Turdus philomelos,Bird,NA,NA,NA,NA,NA,147,0,NA,NA,NA,NA
+62,bbsl_larvae,"Dubska et al., 2011",Czech Republic,Common chaffinch,Fringilla coelebs,Bird,NA,NA,NA,NA,NA,22,1,NA,NA,NA,NA
+63,bbsl_larvae,"Dubska et al., 2011",Czech Republic,Great tit,Parus major,Bird,NA,NA,NA,NA,NA,9,3,NA,NA,NA,NA
+64,bbsl_larvae,"Dubska et al., 2011",Czech Republic,Eurasian wren,Troglodytes troglodytes,Bird,NA,NA,NA,NA,NA,5,0,NA,NA,NA,NA
+65,bbsl_larvae,"Dubska et al., 2011",Czech Republic,Common blackbird,Turdus merula,Bird,NA,NA,NA,NA,NA,49,0,NA,NA,NA,NA
+66,bbsl_larvae,"Dubska et al., 2011",Czech Republic,Song thrush,Turdus philomelos,Bird,NA,NA,NA,NA,NA,6,0,NA,NA,NA,NA
+67,bbslhost,"Espi et al., 2017",Spain,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,36,3,NA,NA,NA,NA,NA,NA
+68,TB,"Estrada-Pena et al., 2005",Spain,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,230,815,NA,NA,NA,NA,NA,NA,NA,NA
+69,TB,"Estrada-Pena et al., 2005",Spain,Common chaffinch,Fringilla coelebs,Bird,Scientific capturing,96,218,NA,NA,NA,NA,NA,NA,NA,NA
+70,TB,"Estrada-Pena et al., 2005",Spain,Bank vole,Myodes glareolus,Mammal,Scientific capturing,99,1271,NA,NA,NA,NA,NA,NA,NA,NA
+71,TB,"Estrada-Pena et al., 2005",Spain,Great tit,Parus major,Bird,Scientific capturing,30,0,NA,NA,NA,NA,NA,NA,NA,NA
+72,TB,"Estrada-Pena et al., 2005",Spain,Eurasian wren,Troglodytes troglodytes,Bird,Scientific capturing,8,0,NA,NA,NA,NA,NA,NA,NA,NA
+73,TB,"Estrada-Pena et al., 2005",Spain,Common blackbird,Turdus merula,Bird,Scientific capturing,143,463,NA,NA,NA,NA,NA,NA,NA,NA
+74,TB,"Estrada-Pena et al., 2005",Spain,Song thrush,Turdus philomelos,Bird,Scientific capturing,130,416,NA,NA,NA,NA,NA,NA,NA,NA
+75,TB,"Fabri et al., 2021",Sweden,Fallow deer,Dama dama,Mammal,Hunting,93,42,64,0,48,2,NA,NA,NA,NA
+76,bbslhost,"Frandsen et al., 1995",Denmark,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,77,39,NA,NA,NA,NA,NA,NA
+77,bbslhost,"Frandsen et al., 1995",Denmark,Bank vole,Myodes glareolus,Mammal,NA,NA,NA,433,75,NA,NA,NA,NA,NA,NA
+78,bbslhost,"Galfsky et al., 2019",Germany,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,104,53,NA,NA,NA,NA,NA,NA
+79,TB,"Gassner et al., 2008",The Netherlands,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,102,454,NA,NA,NA,NA,NA,NA,NA,NA
+80,TB,"Gassner et al., 2008",The Netherlands,Bank vole,Myodes glareolus,Mammal,Scientific capturing,4,5,NA,NA,NA,NA,NA,NA,NA,NA
+81,TB,"Gassner et al., 2013",The Netherlands,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,128,3230,NA,NA,NA,NA,NA,NA,NA,NA
+82,TB,"Gassner et al., 2013",The Netherlands,Bank vole,Myodes glareolus,Mammal,Scientific capturing,41,262,NA,NA,NA,NA,NA,NA,NA,NA
+83,bbsl_larvae,"Gern et al., 1994",Switzerland,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,NA,NA,528,243,NA,NA,NA,NA
+84,TB,"Gern et al., 1997",Switzerland,Western European hedgehog,Erinaceus europaeus,Mammal,Scientific capturing,13,637,NA,NA,299,74,NA,NA,NA,NA
+85,bbslhost,"Gil et al., 2005",Spain,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,130,16,NA,NA,NA,NA,NA,NA
+86,bbslhost,"Gil et al., 2005",Spain,Bank vole,Myodes glareolus,Mammal,NA,NA,NA,19,4,NA,NA,NA,NA,NA,NA
+87,TB,"Gray et al., 1992",Ireland,Wood mouse,Apodemus sylvaticus,Mammal,Hunting,425,1644,NA,NA,NA,NA,NA,NA,NA,NA
+88,TB,"Gray et al., 1994",Ireland,Western European hedgehog,Erinaceus europaeus,Mammal,Scientific capturing,1,406,NA,NA,125,44,NA,NA,NA,NA
+89,TB,"Gray et al., 1995",Ireland,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,43,406,42,21,NA,NA,NA,NA,NA,NA
+90,TB,"Gray et al., 1999",Ireland,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,306,650,NA,NA,NA,NA,NA,NA,NA,NA
+91,TB,"Gray et al., 1999",Ireland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,111,105,NA,NA,NA,NA,NA,NA,NA,NA
+92,bbslhost,"Gray et al., 2000",Ireland,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,103,2,NA,NA,NA,NA,NA,NA
+93,bbsl_larvae,"Gryczynska et al., 2016",Poland,Common blackbird,Turdus merula,Bird,Scientific capturing,NA,NA,NA,NA,131,4,NA,NA,NA,NA
+94,bbslhost,"Gryczynska et al., 2018",Poland,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,11,0,NA,NA,NA,NA,NA,NA
+95,TB,"Gryczynska., 2018",Poland,Common blackbird,Turdus merula,Bird,Scientific capturing,22,17,NA,NA,17,5,NA,NA,NA,NA
+96,bbslhost,"Hamsikova et al., 2017",Slovakia,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,2,1,NA,NA,NA,NA,NA,NA
+97,bbslhost,"Hamsikova et al., 2017",Slovakia,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,226,28,NA,NA,NA,NA,NA,NA
+98,TB,"Hanincova et al., 2003a",Slovakia,Bank vole,Myodes glareolus,Mammal,Scientific capturing,111,262,NA,NA,252,77,NA,NA,NA,NA
+99,TB,"Harrison et al., 2012",UK,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,288,1165,NA,NA,NA,NA,NA,NA,NA,NA
+100,bbslhost,"Hellgren et al., 2011",Sweden,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,65,18,NA,NA,NA,NA,NA,NA
+101,bbslhost,"Hellgren et al., 2011",Sweden,Bank vole,Myodes glareolus,Mammal,NA,NA,NA,707,174,NA,NA,NA,NA,NA,NA
+102,bbsl_larvae,"Heylen et al., 2013",Belgium,Great tit,Parus major,Bird,NA,NA,NA,NA,NA,131,23,NA,NA,NA,NA
+103,TB,"Hofmeester et al., 2019",The Netherlands,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,26,288,26,1,NA,NA,NA,NA,NA,NA
+104,TB,"Hofmeester et al., 2019",The Netherlands,Bank vole,Myodes glareolus,Mammal,Scientific capturing,10,32,10,0,NA,NA,NA,NA,NA,NA
+105,TB,"Hubalek et al., 1995",Czech Republic,Common chaffinch,Fringilla coelebs,Bird,Scientific capturing,20,2,NA,NA,NA,NA,NA,NA,NA,NA
+106,TB,"Hubalek et al., 1995",Czech Republic,Great tit,Parus major,Bird,Scientific capturing,12,22,NA,NA,NA,NA,NA,NA,NA,NA
+107,TB,"Hubalek et al., 1995",Czech Republic,Eurasian wren,Troglodytes troglodytes,Bird,Scientific capturing,1,1,NA,NA,NA,NA,NA,NA,NA,NA
+108,TB,"Hubalek et al., 1995",Czech Republic,Common blackbird,Turdus merula,Bird,Scientific capturing,6,17,NA,NA,NA,NA,NA,NA,NA,NA
+109,TB,"Hubalek et al., 1995",Czech Republic,Song thrush,Turdus philomelos,Bird,Scientific capturing,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+110,bbsl_larvae,"Huegli et al., 2002",Switzerland,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,NA,NA,80,57,NA,NA,NA,NA
+111,TB,"Humair & Gern, 1998",Switzerland,Eurasian red squirrel,Sciurus vulgaris,Mammal,Road kill,6,409,NA,NA,16,8,NA,NA,NA,NA
+112,TB,"Humair et al., 1993a",Switzerland,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,70,632,NA,NA,378,91,NA,NA,NA,NA
+113,TB,"Humair et al., 1993a",Switzerland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,143,739,NA,NA,372,54,NA,NA,NA,NA
+114,TB,"Humair et al., 1993b",Switzerland,Common chaffinch,Fringilla coelebs,Bird,Scientific capturing,3,6,NA,NA,5,0,NA,NA,NA,NA
+115,TB,"Humair et al., 1993b",Switzerland,Great tit,Parus major,Bird,Scientific capturing,24,39,NA,NA,35,3,NA,NA,NA,NA
+116,TB,"Humair et al., 1993b",Switzerland,Eurasian wren,Troglodytes troglodytes,Bird,Scientific capturing,2,12,NA,NA,10,0,NA,NA,NA,NA
+117,TB,"Humair et al., 1993b",Switzerland,Common blackbird,Turdus merula,Bird,Scientific capturing,17,39,NA,NA,30,6,NA,NA,NA,NA
+118,TB,"Humair et al., 1993b",Switzerland,Song thrush,Turdus philomelos,Bird,Scientific capturing,6,24,NA,NA,18,7,NA,NA,NA,NA
+119,bbslhost,"Humair et al., 1995",Switzerland,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,30,1,NA,NA,NA,NA,NA,NA
+120,bbslhost,"Humair et al., 1995",Switzerland,Bank vole,Myodes glareolus,Mammal,NA,NA,NA,55,10,NA,NA,NA,NA,NA,NA
+121,bbsl_larvae,"Humair et al., 1999",Switzerland,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,60,5,319,76,NA,NA,NA,NA
+122,bbsl_larvae,"Humair et al., 1999",Switzerland,Bank vole,Myodes glareolus,Mammal,NA,NA,NA,98,27,149,50,NA,NA,NA,NA
+123,TB,"Hvidsten et al., 2020",Norway,Bank vole,Myodes glareolus,Mammal,Scientific capturing,45,5,NA,NA,NA,NA,NA,NA,NA,NA
+124,TB,"James et al., 2011",UK,Common chaffinch,Fringilla coelebs,Bird,Scientific capturing,305,262,NA,NA,NA,NA,NA,NA,NA,NA
+125,TB,"James et al., 2011",UK,Great tit,Parus major,Bird,Scientific capturing,118,181,NA,NA,NA,NA,NA,NA,NA,NA
+126,TB,"James et al., 2011",UK,Eurasian wren,Troglodytes troglodytes,Bird,Scientific capturing,5,7,NA,NA,NA,NA,NA,NA,NA,NA
+127,TB,"James et al., 2011",UK,Common blackbird,Turdus merula,Bird,Scientific capturing,19,211,NA,NA,NA,NA,NA,NA,NA,NA
+128,TB,"James et al., 2011",UK,Song thrush,Turdus philomelos,Bird,Scientific capturing,2,18,NA,NA,NA,NA,NA,NA,NA,NA
+129,bbslhost,"Kalmar et al., 2019",Romania,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,24,0,NA,NA,NA,NA,NA,NA
+130,bbslhost,"Kalmar et al., 2019",Romania,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,32,1,NA,NA,NA,NA,NA,NA
+131,TB,"Kiffner et al., 2011",Germany,Bank vole,Myodes glareolus,Mammal,Scientific capturing,144,864,NA,NA,NA,NA,NA,NA,NA,NA
+132,TB,"Kipp et al., 2006",Germany,Common chaffinch,Fringilla coelebs,Bird,Scientific capturing,4,0,NA,NA,NA,NA,NA,NA,NA,NA
+133,TB,"Kipp et al., 2006",Germany,Great tit,Parus major,Bird,Scientific capturing,18,0,NA,NA,NA,NA,NA,NA,NA,NA
+134,TB,"Kipp et al., 2006",Germany,Eurasian wren,Troglodytes troglodytes,Bird,Scientific capturing,6,0,NA,NA,NA,NA,NA,NA,NA,NA
+135,TB,"Kipp et al., 2006",Germany,Common blackbird,Turdus merula,Bird,Scientific capturing,18,1,NA,NA,NA,NA,NA,NA,NA,NA
+136,TB,"Kipp et al., 2006",Germany,Song thrush,Turdus philomelos,Bird,Scientific capturing,26,10,NA,NA,NA,NA,NA,NA,NA,NA
+137,bbsl_larvae,"Kjelland et al., 2010",Norway,Great tit,Parus major,Bird,NA,NA,NA,NA,NA,1,0,NA,NA,NA,NA
+138,bbsl_larvae,"Kjelland et al., 2010",Norway,Eurasian wren,Troglodytes troglodytes,Bird,NA,NA,NA,NA,NA,5,1,NA,NA,NA,NA
+139,TB,"Krawczyk et al., 2020",The Netherlands,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,324,4732,478,107,NA,NA,NA,NA,NA,NA
+140,TB,"Krawczyk et al., 2020",The Netherlands,Bank vole,Myodes glareolus,Mammal,Scientific capturing,203,1426,294,83,NA,NA,NA,NA,NA,NA
+141,bbslhost,"Kucerova et al., 2019",Czech Republic,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,3,0,NA,NA,NA,NA,NA,NA
+142,bbslhost,"Kucerova et al., 2019",Czech Republic,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,34,5,NA,NA,NA,NA,NA,NA
+143,bbslhost,"Kurtenbach et al., 1998",United Kingdom,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,21,4,NA,NA,NA,NA,NA,NA
+144,bbslhost,"Kurtenbach et al., 1998",United Kingdom,Bank vole,Myodes glareolus,Mammal,NA,NA,NA,26,5,NA,NA,NA,NA,NA,NA
+145,TB,"Lommano et al., 2014",Switzerland,Common chaffinch,Fringilla coelebs,Bird,Scientific capturing,3,0,NA,NA,NA,NA,NA,NA,NA,NA
+146,TB,"Lommano et al., 2014",Switzerland,Common blackbird,Turdus merula,Bird,Scientific capturing,2,0,NA,NA,NA,NA,NA,NA,NA,NA
+147,TB,"Maaz et al., 2018",Germany,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,25,10,NA,NA,NA,NA,NA,NA,NA,NA
+148,TB,"Maaz et al., 2018",Germany,Bank vole,Myodes glareolus,Mammal,Scientific capturing,59,331,NA,NA,NA,NA,NA,NA,NA,NA
+149,bbslhost,"Majerova et al., 2020",Czech Republic,Western European hedgehog,Erinaceus europaeus,Mammal,Scientific capturing,NA,NA,60,54,NA,NA,NA,NA,NA,NA
+150,bbslhost,"Majerova et al., 2020",Czech Republic,Eurasian red squirrel,Sciurus vulgaris,Mammal,Scientific capturing,NA,NA,22,20,NA,NA,NA,NA,NA,NA
+151,bbslhost,"Majerova et al., 2020",Czech Republic,Common blackbird,Turdus merula,Mammal,Scientific capturing,NA,NA,60,41,NA,NA,NA,NA,NA,NA
+152,TB,"Marsot et al., 2013",France,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,34,299,72,6,NA,NA,NA,NA,NA,NA
+153,TB,"Marsot et al., 2013",France,Bank vole,Myodes glareolus,Mammal,Scientific capturing,547,1074,574,82,NA,NA,NA,NA,NA,NA
+154,TB,"Martello et al., 2014",Italy,Bank vole,Myodes glareolus,Mammal,Scientific capturing,57,17,NA,NA,NA,NA,NA,NA,NA,NA
+155,TB,"Martello et al., 2019",Italy,Bank vole,Myodes glareolus,Mammal,Scientific capturing,22,8,21,5,6,1,NA,NA,NA,NA
+156,TB,"Matuschka et al., 1990",Germany,Bank vole,Myodes glareolus,Mammal,Scientific capturing,961,2033,NA,NA,83,32,NA,NA,NA,NA
+157,TB,"Matuschka et al., 1994",Germany,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,8,23,NA,NA,17,0,NA,NA,NA,NA
+158,TB,"Matuschka et al., 1994",Germany,Bank vole,Myodes glareolus,Mammal,Scientific capturing,60,66,NA,NA,18,13,NA,NA,NA,NA
+159,TB,"Michalik et al., 2003",Poland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,126,123,NA,NA,123,27,NA,NA,NA,NA
+160,TB,"Michalik et al., 2005",Poland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,11,15,NA,NA,NA,NA,NA,NA,NA,NA
+161,TB,"Michalik et al., 2008",Poland,Common chaffinch,Fringilla coelebs,Bird,Scientific capturing,29,38,NA,NA,25,0,NA,NA,NA,NA
+162,TB,"Michalik et al., 2008",Poland,Great tit,Parus major,Bird,Scientific capturing,59,23,NA,NA,15,0,NA,NA,NA,NA
+163,TB,"Michalik et al., 2008",Poland,Common blackbird,Turdus merula,Bird,Scientific capturing,25,107,NA,NA,47,10,NA,NA,NA,NA
+164,TB,"Michalik et al., 2008",Poland,Song thrush,Turdus philomelos,Bird,Scientific capturing,29,96,NA,NA,63,2,NA,NA,NA,NA
+165,TB,"Mori et al., 2018",Italy,Bank vole,Myodes glareolus,Mammal,Scientific capturing,17,1,NA,NA,1,0,NA,NA,NA,NA
+166,TB,"Mori et al., 2018",Italy,Eurasian red squirrel,Sciurus vulgaris,Mammal,Road kill,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+167,TB,"Mysterud et al., 2015",Norway,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,27,222,NA,NA,NA,NA,NA,NA,NA,NA
+168,TB,"Mysterud et al., 2015",Norway,Bank vole,Myodes glareolus,Mammal,Scientific capturing,30,118,NA,NA,NA,NA,NA,NA,NA,NA
+169,TB,"Mysterud et al., 2019b",Norway,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,169,1474,172,33,NA,NA,NA,NA,NA,NA
+170,TB,"Mysterud et al., 2019b",Norway,Bank vole,Myodes glareolus,Mammal,Scientific capturing,391,4562,397,94,NA,NA,NA,NA,NA,NA
+171,TB,"Mysterud et al., 2021",Norway,Red squirrel,Sciurus vulgaris,Mammal,Road-killed and hunted,17,236,17,15,NA,NA,NA,NA,NA,NA
+172,bbsl_larvae,"Norte et al., 2015a",Portugal,Great tit,Parus major,Bird,Scientific capturing,NA,NA,NA,NA,1,0,NA,NA,NA,NA
+173,bbsl_larvae,"Norte et al., 2015a",Portugal,Common blackbird,Turdus merula,Bird,Scientific capturing,NA,NA,NA,NA,10,0,NA,NA,NA,NA
+174,TB,"Norte et al., 2015b",Portugal,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,38,226,36,0,NA,NA,NA,NA,NA,NA
+175,TB,"Obiegala et al., 2017",Germany,Bank vole,Myodes glareolus,Mammal,Scientific capturing,435,1290,435,143,NA,NA,NA,NA,NA,NA
+176,bbsl_larvae,"P√©rez et al., 2012",Switzerland,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,NA,NA,197,63,NA,NA,NA,NA
+177,bbsl_larvae,"P√©rez et al., 2012",Switzerland,Bank vole,Myodes glareolus,Mammal,NA,NA,NA,NA,NA,268,72,NA,NA,NA,NA
+178,bbslhost,"Pascucci et al., 2015",Italy,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,42,5,NA,NA,NA,NA,NA,NA
+179,TB,"Peter et al., 1981",Switzerland,Bank vole,Myodes glareolus,Mammal,NA,127,2792,NA,NA,NA,NA,NA,NA,NA,NA
+180,TB,"Pfaffle et al., 2011",Germany,Western European hedgehog,Erinaceus europaeus,Mammal,Scientific capturing,557,66772,NA,NA,NA,NA,NA,NA,NA,NA
+181,bbslhost,"Pisanu et al., 2013",France,Eurasian red squirrel,Sciurus vulgaris,Mammal,NA,NA,NA,273,65,NA,NA,NA,NA,NA,NA
+182,bbslhost,"Raberg, 2012",Sweden,Bank vole,Myodes glareolus,Mammal,NA,NA,NA,180,88,NA,NA,NA,NA,NA,NA
+183,TB,"Radzijevskaja et al., 2013",Norway,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,32,53,NA,NA,NA,NA,NA,NA,NA,NA
+184,TB,"Radzijevskaja et al., 2013",Lithuania,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,1,0,NA,NA,53,0,NA,NA,NA,NA
+185,TB,"Radzijevskaja et al., 2013",Lithuania,Bank vole,Myodes glareolus,Mammal,Scientific capturing,57,78,NA,NA,NA,NA,NA,NA,NA,NA
+186,TB,"Radzijevskaja et al., 2013",Norway,Bank vole,Myodes glareolus,Mammal,Scientific capturing,1,10,NA,NA,88,20,NA,NA,NA,NA
+187,TB,"Richter & Matuschka, 2006",Germany,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,15,197,NA,NA,50,13,NA,NA,NA,NA
+188,TB,"Richter & Matuschka, 2006",Germany,Bank vole,Myodes glareolus,Mammal,Scientific capturing,34,211,NA,NA,81,23,NA,NA,NA,NA
+189,bbsl_larvae,"Richter et al., 2004",France,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,NA,NA,48,18,NA,NA,NA,NA
+190,bbsl_larvae,"Richter et al., 2004",France,Bank vole,Myodes glareolus,Mammal,NA,NA,NA,NA,NA,15,0,NA,NA,NA,NA
+191,bbslhost,"Schmidt et al., 2014",Austria,Wood mouse,Apodemus sylvaticus,Mammal,NA,NA,NA,26,1,NA,NA,NA,NA,NA,NA
+192,bbslhost,"Schmidt et al., 2014",Austria,Bank vole,Myodes glareolus,Mammal,NA,NA,NA,40,3,NA,NA,NA,NA,NA,NA
+193,TB,"Sinski et al., 2006",Poland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,663,2832,NA,NA,440,20,NA,NA,NA,NA
+194,TB,"Spitalska et al., 2006",Slovakia,Common chaffinch,Fringilla coelebs,Bird,Scientific capturing,77,3,NA,NA,NA,NA,NA,NA,NA,NA
+195,TB,"Spitalska et al., 2006",Slovakia,Great tit,Parus major,Bird,Scientific capturing,205,0,NA,NA,NA,NA,NA,NA,NA,NA
+196,TB,"Spitalska et al., 2006",Slovakia,Eurasian wren,Troglodytes troglodytes,Bird,Scientific capturing,71,0,NA,NA,NA,NA,NA,NA,NA,NA
+197,TB,"Spitalska et al., 2006",Slovakia,Common blackbird,Turdus merula,Bird,Scientific capturing,63,6,NA,NA,NA,NA,NA,NA,NA,NA
+198,TB,"Spitalska et al., 2006",Slovakia,Song thrush,Turdus philomelos,Bird,Scientific capturing,85,4,NA,NA,NA,NA,NA,NA,NA,NA
+199,TB,"Szczurek & Kadulski, 2004",Poland,Fallow deer,Dama dama,Mammal,Hunting,9,0,NA,NA,NA,NA,NA,NA,NA,NA
+200,TB,"Talleklint & Jaenson, 1997",Sweden,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,19,969,NA,NA,255,99,NA,NA,NA,NA
+201,TB,"Talleklint & Jaenson, 1997",Sweden,Bank vole,Myodes glareolus,Mammal,Scientific capturing,106,3604,NA,NA,1450,493,NA,NA,NA,NA
+202,TB,"Taragelova et al., 2005",Slovakia,Common chaffinch,Fringilla coelebs,Bird,Scientific capturing,20,72,NA,NA,71,1,NA,NA,NA,NA
+203,TB,"Taragelova et al., 2005",Slovakia,Great tit,Parus major,Bird,Scientific capturing,61,40,NA,NA,40,1,NA,NA,NA,NA
+204,TB,"Taragelova et al., 2005",Slovakia,Eurasian wren,Troglodytes troglodytes,Bird,Scientific capturing,1,0,NA,NA,NA,NA,NA,NA,NA,NA
+205,TB,"Taragelova et al., 2005",Slovakia,Common blackbird,Turdus merula,Bird,Scientific capturing,11,72,NA,NA,146,64,NA,NA,NA,NA
+206,TB,"Taragelova et al., 2005",Slovakia,Song thrush,Turdus philomelos,Bird,Scientific capturing,12,85,NA,NA,129,67,NA,NA,NA,NA
+207,TB,"Vourch et al., 2007",France,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,22,224,31,0,NA,NA,NA,NA,NA,NA
+208,TB,"Vourch et al., 2007",France,Bank vole,Myodes glareolus,Mammal,Scientific capturing,63,277,64,9,NA,NA,NA,NA,NA,NA
+209,TB,"Wegner et al., 1997",Poland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,22,38,NA,NA,38,8,NA,NA,NA,NA
+210,TB,"Welc-Faleciak et al., 2008",Poland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,495,1832,NA,NA,NA,NA,NA,NA,NA,NA
+211,bbslhost,"Zhong et al., 2019",Sweden,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,69,23,NA,NA,NA,NA,NA,NA
+212,host_ap,"Chastagner et al., 2016",France,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,668,21,NA,NA
+213,host_ap,"Chastagner et al., 2016",France,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,441,78,NA,NA
+214,host_ap,"Christova et al., 2012",Bulgaria,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,11,1,NA,NA
+215,host_ap,"De La Fuente et al., 2005",Spain,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,6,0,NA,NA
+216,host_ap,"Di Domenico et al., 2016",Italy,Fallow deer,Dama dama,Mammal,Found dead (of which 80% road kill),NA,NA,NA,NA,NA,NA,1,0,NA,NA
+217,host_ap,"Ebani et al., 2007",Italy,Fallow deer,Dama dama,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,29,21,NA,NA
+218,host_ap,"Garcia-Perez et al., 2016",Spain,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,NA,NA,NA,NA,6,3,NA,NA
+219,host_ap,"Hartelt et al., 2008",Germany,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,32,0,NA,NA
+220,host_ap,"Hartelt et al., 2008",Germany,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,149,20,NA,NA
+221,host_ap,"Hornok et al., 2018b",Hungary,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,NA,NA,NA,NA,33,24,NA,NA
+222,host_ap,"Hornok et al., 2018b",Hungary,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,NA,NA,NA,NA,85,81,NA,NA
+223,host_ap,"Hulinska et al., 2002",Czech Republic,Wood mouse,Apodemus sylvaticus,Mammal,Hunting,NA,NA,25,2,NA,NA,25,2,NA,NA
+224,host_ap,"Hulinska et al., 2002",Czech Republic,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,8,2,NA,NA,8,1,NA,NA
+225,host_ap,"Hulinska et al., 2002",Czech Republic,Bank vole,Myodes glareolus,Mammal,Hunting,NA,NA,13,2,NA,NA,13,1,NA,NA
+226,host_ap,"Hulinska et al., 2004",Czech Republic,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,NA,NA,NA,NA,15,2,NA,NA
+227,host_ap,"Hulinska et al., 2004",Czech Republic,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,15,2,NA,NA
+228,host_ap,"Jahfari et al., 2014",The Netherlands,Common chaffinch,Fringilla coelebs,Bird,Found dead or euthanized,NA,NA,NA,NA,NA,NA,3,0,NA,NA
+229,host_ap,"Jahfari et al., 2014",The Netherlands,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,35,0,NA,NA
+230,host_ap,"Jahfari et al., 2014",The Netherlands,Great tit,Parus major,Bird,Found dead or euthanized,NA,NA,NA,NA,NA,NA,4,0,NA,NA
+231,host_ap,"Jahfari et al., 2014",The Netherlands,Common blackbird,Turdus merula,Bird,Found dead or euthanized,NA,NA,NA,NA,NA,NA,11,1,NA,NA
+232,host_ap,"Jahfari et al., 2014",The Netherlands,Song thrush,Turdus philomelos,Bird,Found dead or euthanized,NA,NA,NA,NA,NA,NA,6,0,NA,NA
+233,host_ap,"Kallio et al., 2014",Finland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,151,33,NA,NA
+234,host_ap,"Kauffmann et al., 2017",Germany,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,NA,NA,NA,NA,43,31,NA,NA
+235,host_ap,"Kazimirova et al., 2018",Slovakia,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,22,0,NA,NA,22,21,NA,NA
+236,host_ap,"Krucken et al., 2013",Germany,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,25,2,NA,NA
+237,host_ap,"Krucken et al., 2013",Germany,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,56,0,NA,NA
+238,host_ap,"Liz et al., 2000",Switzerland,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,48,0,NA,NA
+239,host_ap,"Liz et al., 2000",Switzerland,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,78,14,NA,NA
+240,host_ap,"Matei et al., 2018",Romania,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,51,2,NA,NA
+241,host_ap,"Matei et al., 2018",Romania,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,53,0,NA,NA
+242,host_ap,"Matei et al., 2018",Romania,Eurasian red squirrel,Sciurus vulgaris,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,1,0,NA,NA
+243,host_ap,"Matsumoto et al., 2007",France,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,18,2,NA,NA
+244,host_ap,"Michalik et al., 2009",Poland,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,NA,NA,NA,NA,44,9,NA,NA
+245,host_ap,"Obiegala et al., 2014",Germany,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,36,2,NA,NA
+246,host_ap,"Obiegala et al., 2014",Germany,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,396,3,NA,NA
+247,host_ap,"Ogden et al., 1998",UK,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,21,0,NA,NA
+248,host_ap,"Ogden et al., 1998",UK,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,26,0,NA,NA
+249,host_ap,"Oporto et al., 2003",Spain,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,43,0,NA,NA
+250,host_ap,"Oporto et al., 2003",Spain,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,11,0,NA,NA
+251,host_ap,"Pereira et al., 2016",Portugal,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,3,0,NA,NA,3,0,NA,NA
+252,host_ap,"Perez et al., 2017",France,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,453,0,454,15,NA,NA,452,20,NA,NA
+253,host_ap,"Perez et al., 2017",France,Bank vole,Myodes glareolus,Mammal,Scientific capturing,147,0,149,10,NA,NA,147,20,NA,NA
+254,host_ap,"Robinson et al., 2009",UK,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,NA,NA,NA,NA,58,12,NA,NA
+255,TB,"Rosso et al., 2017",Italy,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,28,0,NA,NA,NA,NA,28,0,NA,NA
+256,TB,"Rosso et al., 2017",Italy,Bank vole,Myodes glareolus,Mammal,Scientific capturing,245,210,NA,NA,NA,NA,245,49,NA,NA
+257,host_ap,"Ruyts et al., 2017",Belgium,Eurasian red squirrel,Sciurus vulgaris,Mammal,Road kill,NA,NA,52,3,NA,NA,NA,NA,NA,NA
+258,host_ap,"Skotarczak et al., 2006",Poland,Common chaffinch,Fringilla coelebs,Bird,Scientific capturing,NA,NA,NA,NA,NA,NA,10,0,NA,NA
+259,host_ap,"Skotarczak et al., 2006",Poland,Great tit,Parus major,Bird,Scientific capturing,NA,NA,NA,NA,NA,NA,11,0,NA,NA
+260,host_ap,"Skotarczak et al., 2006",Poland,Common blackbird,Turdus merula,Bird,Scientific capturing,NA,NA,NA,NA,NA,NA,24,0,NA,NA
+261,host_ap,"Skotarczak et al., 2006",Poland,Song thrush,Turdus philomelos,Bird,Scientific capturing,NA,NA,NA,NA,NA,NA,24,0,NA,NA
+262,host_ap,"Skuballa et al., 2010",Germany,Western European hedgehog,Erinaceus europaeus,Mammal,Dead animals at rescue centers,NA,NA,259,35,NA,NA,31,8,NA,NA
+263,host_ap,"Smetanova et al., 2006",Slovakia,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,3,0,NA,NA
+264,host_ap,"Smetanova et al., 2006",Slovakia,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,23,0,NA,NA
+265,host_ap,"Stefancikova et al., 2008",Slovakia,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,1,0,NA,NA
+266,host_ap,"Svitalkova et al., 2015",Slovakia,Wood mouse,Apodemus sylvaticus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,2,0,NA,NA
+267,host_ap,"Svitalkova et al., 2015",Slovakia,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,227,3,NA,NA
+268,host_ap,"Szekeres et al., 2015",Hungary,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,40,1,NA,NA,40,3,NA,NA
+269,TB,"Szekeres et al., 2019",Hungary,Eurasian red squirrel,Sciurus vulgaris,Mammal,Road kill,2,0,2,1,NA,NA,2,0,NA,NA
+270,host_ap,"Veronesi et al., 2011",Italy,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,NA,NA,NA,NA,72,11,NA,NA
+271,host_ap,"Vichova et al., 2014",Slovakia,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,NA,NA,NA,NA,3,2,NA,NA
+272,host_ap,"Vichova et al., 2014",Slovakia,Bank vole,Myodes glareolus,Mammal,Scientific capturing,NA,NA,NA,NA,NA,NA,23,1,NA,NA
+273,host_ap,"Zeman & Pecha, 2008",Czech Republic,Fallow deer,Dama dama,Mammal,Hunting,NA,NA,NA,NA,NA,NA,2,1,NA,NA
